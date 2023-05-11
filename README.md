@@ -1,3 +1,2 @@
-# PrepCursodos
-Segunda prueba de repositorio modulo 2
-modificado 
+# PrepCursodos mariela
+este proyecto es una prueba de como crear un repositorio y clonarlo desde githab a mi escritorio
